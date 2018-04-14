@@ -185,28 +185,31 @@ header {
     margin: 0 auto;
     overflow: hidden;
     padding-top: 25px;
-    padding-bottom: 15px;
+    padding-bottom: 25px;
 }
 .sponsor-cell {
     display: table-cell;
     float: left;
 }
 .sponsor-long {
-    padding-top: 35px;
-    width: 25%;
+    padding-top: 30px;
+    width: 20%;
 }
 .sponsor-tall {
-    width: 25%;
+    width: 20%;
 }
 .sponsor-long img {
-    width: 200px;
+    width: 175px;
 }
 .sponsor-tall img {
-    height: 150px;
+    height: 110px;
 }
-#ndy {
+#wilsontransformers {
     margin:-20px;
-    padding-right: 15px;
+    padding-right: 20px;
+}
+#dynamicratings {
+    padding-top:20px;
 }
 
 
