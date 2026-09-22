@@ -16,7 +16,7 @@ SMEE has won several awards at the Monash Clubs Awards, including Club of the Ye
 
 ## 2026 Club of the Year
 
-![Photo of SMEE committee members at the Monash Clubs Awards Night, with a Club of the Year plaque. Timmy Hess, Amiru Peeli Kumburage, Trajco Nikolov, Sophie Li, Nhan Nguyen, Arthur Nguyen, Sayuni Perera, Leonie Chim, Steph Koutsimpiris](/assets/awards/2026.jpg)
+![Photo of SMEE committee members at the Monash Clubs Awards Night, with a Club of the Year plaque. Timmy Hess, Amiru Peeli Kumburage, Trajco Nikolov, Sophie Li, Nhan Nguyen, Arthur Nguyen, Sayuni Perera, Leonie Chim, Steph Koutsimpiris](./assets/awards/2026.jpg)
 
 The Club of the Year - C&S Division 4 award celebrates the most outstanding clubs across all areas of club operations. A club's exceptional dedication to fulfilling its purposes, supporting members and the impact had the wider Monash community are recognised as part of this award.
 
@@ -24,7 +24,7 @@ Judging Criteria: Interactions with the Monash community, events and programs, t
 
 ## 2025 Club of the Year
 
-![Photo of SMEE executive members at the Monash Clubs Awards Night, with a Club of the Year plaque. Oliver Hoy, Lacie Nguyen, Nhan Nguyen](/assets/awards/2025.jpg)
+![Photo of SMEE executive members at the Monash Clubs Awards Night, with a Club of the Year plaque. Oliver Hoy, Lacie Nguyen, Nhan Nguyen](./assets/awards/2025.jpg)
 
 The Club of the Year - C&S Category C award celebrates the most outstanding clubs across all areas of club operations. A club's exceptional dedication to fulfilling its purposes, supporting members and the impact had the wider Monash community are recognised as part of this award.
 
