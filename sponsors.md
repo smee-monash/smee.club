@@ -6,6 +6,7 @@ title: Sponsorships
 <style>
 	img {
 		max-height: 160px;
+		max-width: 100%;
 	}
 </style>
 
