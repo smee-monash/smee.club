@@ -1,0 +1,8 @@
+markdown: kramdown
+
+baseurl: /
+
+defaults:
+  -
+    values:
+      layout: "default"
