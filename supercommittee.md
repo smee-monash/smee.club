@@ -39,7 +39,7 @@ title: Supercommittee
 <div class="profiles">
 	{% for member in subcommittee.directors %}
 <article markdown=1>
-[![Photo of {{ member.name }}]({{ member.photo | default: "/favicon.ico" }})]({{ member.link }})
+[![Photo of {{ member.name }}]({{ member.photo | default: "./favicon.ico" }})]({{ member.link }})
 
 {{ member.name }}
 
@@ -50,7 +50,7 @@ title: Supercommittee
 <div class="profiles">
 	{% for member in subcommittee.members %}
 <article markdown=1>
-[![Photo of {{ member.name }}]({{ member.photo | default: "/favicon.ico" }})]({{ member.link }})
+[![Photo of {{ member.name }}]({{ member.photo | default: "./favicon.ico" }})]({{ member.link }})
 
 {{ member.name }}
 
